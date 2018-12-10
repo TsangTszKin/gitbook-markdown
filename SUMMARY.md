@@ -13,11 +13,12 @@
     * [js](js.md)
     * [javascript-utils](javascript-utils.md)
     * [前端兼容性积累](前端兼容性积累.md)
-    * [我的vue踩坑积累之路](我的vue踩坑积累之路.md)
-    * [把es6编译成es5](把es6编译成es5.md)
+    * [vue踩坑](vue踩坑.md)
+    * [把es6编译成es5（兼容性）](把es6编译成es5（兼容性）.md)
     * [浏览器全屏显示](浏览器全屏显示.md)
     * [react+mobx+axios+react-router4](react+mobx+axios+react-router4.md)
     * [webpack+react+antd+css_modules](webpack+react+antd+css_modules.md)
+    * [git常用命令](git常用命令.md)
 * 后端
     * [jstl](jstl.md)
     * [java](java.md)
@@ -28,6 +29,6 @@
 * 数据库
     * [解决远程连接mysql错误1130](解决远程连接mysql错误1130.md)
     * [mysql](mysql.md)
-* 管理
+* 项目管理
     * [系统集成项目管理工程师](系统集成项目管理工程师.md)
 

@@ -1,5 +1,5 @@
 ---
-title: 把es6编译成es5
+title: 把es6编译成es5（兼容性）
 date: 2018-07-03 09:55:16
 tags: '架构'
 categories: '前端'
@@ -7,7 +7,7 @@ description: 'vue2.0编译打包后的语法版本兼容性问题处理'
 ---
 
 
-##1,  当初解决过程第一步
+##1, 解决过程第一步
 IE浏览器报Promise未定义的错误
 背景： 一个vue-cli构建的vue项目，一个使用angular的项目，两个项目在其他浏览器一切正常，但是ie中会报Promise未定义的错误
  
@@ -26,7 +26,7 @@ IE浏览器报Promise未定义的错误
 - 2.    从  node_modules  文件夹下找到 _babel-polyfill@6.26.0@babel-polyfill  (名字根据版本号改变)下的  dist  中  polyfill.min.js ，  将其拷贝到一个文件夹中，我这里是babel-polyfill
 - 3.    在引入文件的index.html中引入即可,  <script src="/babel-polyfill/polyfill.min.js" type="text/javascript"></script>
 
-##2,  当初解决过程第二步
+##2, 解决过程第二步
 https://www.jianshu.com/p/2b373b0910ed
 
 安装babel-cli 
