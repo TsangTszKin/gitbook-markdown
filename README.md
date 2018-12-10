@@ -1,5 +1,4 @@
 # 
-<br /><br />
 <div align=center><img src="https://i.imgur.com/ZlCEbXe.jpg" /> 
 
 <p>
