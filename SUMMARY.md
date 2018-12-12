@@ -17,6 +17,7 @@
     * [浏览器全屏显示](浏览器全屏显示.md)
     * [整合react+mobx+axios+react-router4](整合react+mobx+axios+react-router4.md)
     * [搭建webpack+react+antd+less+css_modules](搭建webpack+react+antd+less+css_modules.md)
+    * [prototype、_ _proto_ _与constructor](JS中的prototype、__proto__与constructor.md)
 * 后端
     * [linux](linux.md)
     * [java](java.md)

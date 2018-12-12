@@ -241,6 +241,9 @@
 	# 推送所有分支到远程仓库
 	$ git push [remote] --all
 
+	# 强制覆盖本地命令（单条执行）
+	$ git fetch --all && git reset --hard origin/master && git pull
+
 ### git push延伸
 
 在使用git commit命令将修改从暂存区提交到本地版本库后，只剩下最后一步将本地版本库的分支推送到远程服务器上对应的分支了，如果不清楚版本库的构成，可以查看我的另一篇，git 仓库的基本结构。
