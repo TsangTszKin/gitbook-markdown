@@ -128,3 +128,9 @@ num必需。规定小数的位数，是 0 ~ 20 之间的值，包括 0 和 20，
 	    else if (document.body && document.body.clientWidth)     //IE 
 	        winWidth = document.body.clientWidth;
 	    return winWidth;
+
+### 在即将离开当前页面(刷新或关闭)时执行 JavaScript :
+
+	window.onbeforeunload = function () { 
+		return ''  //return字符串会系统提醒会否确定离开或者刷新当前页面
+	}
