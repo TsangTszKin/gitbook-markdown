@@ -1,3 +1,12 @@
+---
+title: webpack + react + antd + css_modules
+date: 2016-04-01 10:27:12
+description: '搭建webpack + react + antd + css_modules'
+tags: 'php'
+categories: '前端'
+
+---
+
 # webpack + react + antd + css_modules
 ---
 ###下图是项目目录结构图，红色部分可直接忽略。

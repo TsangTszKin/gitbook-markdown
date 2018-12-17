@@ -7,6 +7,7 @@ description: 'input[file]标签的accept属性可用于指定上传文件的 MIM
 这段代码在Chrome和Safari等Webkit浏览器下却出现了响应滞慢的问题，可能要等 6~10s 才能弹出文件选择对话框。简直不能忍呀。'
 tags: [DOM, MIME]
 categories: '前端'
+
 ---
 
 在IE和Firefox中使用 accept=”image/*” 属性则没有发现响应延迟的问题。

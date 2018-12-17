@@ -1,3 +1,12 @@
+---
+title: git常用命令
+date: 2018-11-02 21:46:09
+tags: 'css'
+categories: '前端'
+description: 'git常用命令'
+
+---
+
 # git常用命令
 --- 
 ![](https://i.imgur.com/NVbxiNJ.png)

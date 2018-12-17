@@ -1,3 +1,12 @@
+---
+title: prototype、_ _proto_ _ 与constructor
+date: 2016-04-01 10:27:12
+description: '讲解JS中的prototype、_ _proto_ _ 与constructor'
+tags: 'php'
+categories: '前端'
+
+---
+
 # 讲解JS中的prototype、_ _proto_ _ 与constructor
 ---
 ![](https://i.imgur.com/spnZ8Hr.png)
