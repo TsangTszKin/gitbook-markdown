@@ -1,8 +1,3 @@
----
-date: 2015-11-25 10:27:12
-
----
-
 # Summary
 
 * [前言](README.md)
@@ -31,7 +26,7 @@ date: 2015-11-25 10:27:12
     * [php](php.md)
 * 工具
     * [git常用命令](git常用命令.md)
-    * [HEXO搭建个人博客](hello-world.md)
+    * [HEXO搭建个人博客](HEXO搭建个人博客.md)
 * 数据库
     * [解决远程连接mysql错误1130](解决远程连接mysql错误1130.md)
     * [mysql](mysql.md)
