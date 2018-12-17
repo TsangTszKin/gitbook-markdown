@@ -1,8 +1,8 @@
 ---
 title: 整合react + mobx + axios + react-router4
-date: 2016-04-01 10:27:12
+date: 2018-12-01 10:27:12
 description: '一步步整个整合react + mobx + axios + react-router4'
-tags: 'php'
+tags: [js, 架构]
 categories: '前端'
 
 ---

@@ -1,8 +1,8 @@
 ---
 title: webpack + react + antd + css_modules
-date: 2016-04-01 10:27:12
+date: 2018-11-25 10:27:12
 description: '搭建webpack + react + antd + css_modules'
-tags: 'php'
+tags: [js, 架构]
 categories: '前端'
 
 ---

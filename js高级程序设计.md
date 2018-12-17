@@ -1,7 +1,7 @@
 ---
 title: js高级程序设计笔记
-date: 2018-11-02 21:46:09
-tags: 'css'
+date: 2018-06-20 21:46:09
+tags: [js, 继承, 闭包, vue双向绑定原理]
 categories: '前端'
 description: 'js高级程序设计笔记'
 

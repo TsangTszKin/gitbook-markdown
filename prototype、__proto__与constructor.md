@@ -1,8 +1,8 @@
 ---
 title: prototype、_ _proto_ _ 与constructor
-date: 2016-04-01 10:27:12
+date: 2018-06-20 10:27:12
 description: '讲解JS中的prototype、_ _proto_ _ 与constructor'
-tags: 'php'
+tags: [js, 原型]
 categories: '前端'
 
 ---
