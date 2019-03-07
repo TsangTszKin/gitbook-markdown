@@ -1,7 +1,7 @@
 ---
 title: javascript utils
 date: 2018-07-03 11:46:16
-tags: js,
+tags: js
 categories: [前端]
 description: 'javascript的常用utils，工具，公共方法，可封装的方法汇集'
 
